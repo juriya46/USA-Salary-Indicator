@@ -3,7 +3,10 @@ DATA MANAGEMENT AND DESIGN
 ASSIGNMENT – 1
 
 
-USA SALARY INDICATOR[DATA MANAGEMENT AND DESIGN.docx](https://github.com/juriya46/USA-Salary-Indicator/files/9639826/DATA.MANAGEMENT.AND.DESIGN.docx)
+USA SALARY INDICATOR
+
+
+[USA Salary Indicator.docx](https://github.com/juriya46/USA-Salary-Indicator/files/9639827/USA.Salary.Indicator.docx)
 
 
 TEAM MEMBERS:
