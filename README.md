@@ -18,6 +18,9 @@ Every decade, the United States has seen great development in the incomes of var
 
 OBJECTIVE:
 •	Help individuals achieve the optimal job and location.
+
 •	Users would be able to choose variables such as age, sex, and profession.
+
 •	It accounts for salaries, job growth, and savings.
+
 •	Additional features include taxes and the unemployment status of various occupations in different states.
