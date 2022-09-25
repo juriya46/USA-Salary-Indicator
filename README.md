@@ -3,7 +3,8 @@ DATA MANAGEMENT AND DESIGN
 ASSIGNMENT – 1
 
 
-USA SALARY INDICATOR
+USA SALARY INDICATOR[DATA MANAGEMENT AND DESIGN.docx](https://github.com/juriya46/USA-Salary-Indicator/files/9639826/DATA.MANAGEMENT.AND.DESIGN.docx)
+
 
 TEAM MEMBERS:
 1.		Arpita Bhagat	(002776356)	bhagat.ar@northeastern.edu
@@ -17,6 +18,7 @@ PROBLEM STATEMENT:
 Every decade, the United States has seen great development in the incomes of various occupations, making it difficult for individuals to choose the right profession, compare statistics in various professions, and determine the most favorable region. The USA Salary Indicator is a system created to address the challenge that individuals encounter when determining the salary of each profession.
 
 OBJECTIVE:
+
 •	Help individuals achieve the optimal job and location.
 
 •	Users would be able to choose variables such as age, sex, and profession.
