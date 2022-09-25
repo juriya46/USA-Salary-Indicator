@@ -1,13 +1,11 @@
 # USA-Salary-Indicator
-DATA MANAGEMENT AND DESIGN
+DATA MANAGEMENT AND DATABASE DESIGN
 ASSIGNMENT – 1
 
 
 USA SALARY INDICATOR
 
-
-[USA Salary Indicator.docx](https://github.com/juriya46/USA-Salary-Indicator/files/9639827/USA.Salary.Indicator.docx)
-
+[USA.Salary.Indicator.docx](https://github.com/juriya46/USA-Salary-Indicator/files/9639830/USA.Salary.Indicator.docx)
 
 TEAM MEMBERS:
 1.		Arpita Bhagat	(002776356)	bhagat.ar@northeastern.edu
