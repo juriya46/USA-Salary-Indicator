@@ -5,7 +5,9 @@ ASSIGNMENT – 1
 
 USA SALARY INDICATOR
 
-[USA.Salary.Indicator.docx](https://github.com/juriya46/USA-Salary-Indicator/files/9639830/USA.Salary.Indicator.docx)
+[USA.Salary.Indicator (1).docx](https://github.com/juriya46/USA-Salary-Indicator/files/9639834/USA.Salary.Indicator.1.docx)
+
+
 
 TEAM MEMBERS:
 1.		Arpita Bhagat	(002776356)	bhagat.ar@northeastern.edu
@@ -16,11 +18,11 @@ TEAM MEMBERS:
 
 
 PROBLEM STATEMENT: 
-Every decade, the United States has seen great development in the incomes of various occupations, making it difficult for individuals to choose the right profession, compare statistics in various professions, and determine the most favorable region. The USA Salary Indicator is a system created to address the challenge that individuals encounter when determining the salary of each profession.
+Every decade, the United States has seen great development in the incomes of various occupations, making it difficult for individuals to choose the right profession, compare statistics in various professions, and determine the most favorable region. The USA Salary Indicator is a system created to address the challenge individuals encounter when determining the salary of each profession.
 
 OBJECTIVE:
 
-•	Help individuals achieve the optimal job and location.
+•	Help individuals achieve optimal jobs and locations.
 
 •	Users would be able to choose variables such as age, sex, and profession.
 
